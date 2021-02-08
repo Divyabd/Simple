@@ -8,6 +8,8 @@ public class Sim {
 		int b=3;
 		System.out.println("This is divya");
 		System.out.println(a+b);
+		int c=2;
+		int d=c;
 	}
 
 }
